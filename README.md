@@ -1,5 +1,5 @@
 # Virtual-Pet
-I did a lot of trial and error creating this project. It's not finished yet but I was very proud to finish the second part of this on-going project. The first part of this project was the time when everything that we had crammed and learn for the first three weeks of bootcamp started to make sense. Not my cleanest work since it's technically not complete yet, but I will get better applying OOP in the future.
+I did a lot of trial and error creating this project. It's not finished yet but I was very proud to finish the second part of this on-going project. This was the time when everything that we had crammed and learn for the first three weeks of bootcamp started to make sense. Not my cleanest work since it's technically not complete yet, but I will get better applying OOP in the future.
 
 ## Description
 A simple console-based virtual pet game where a user can interact with a pet. The pet has basic needs like hunger, thirst, and boredom which increase over time and the user can perform actions to satisfy these needs. I created a shelter object which can hold more than one virtual pet. 
